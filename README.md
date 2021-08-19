@@ -5,4 +5,6 @@ Added solutions to the following problems till date:
 
 | No. | Title |
 | ----- | ----- |
+| 1 | Two Sum |
 | 69 | Sqrt(x) |
+
