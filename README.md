@@ -14,3 +14,4 @@ Added solutions to the following problems till date:
 | 342 | Power of Four |
 | 412 | Fizz Buzz |
 | 509 | Fibonacci Number |
+| 1512 | Number of Good Pairs |
