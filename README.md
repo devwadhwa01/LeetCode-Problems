@@ -16,4 +16,5 @@ Added solutions to the following problems till date:
 | 412 | Fizz Buzz |
 | 509 | Fibonacci Number |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
+| 1342 | Number of Steps to Reduce a Number to Zero |
 | 1512 | Number of Good Pairs |
