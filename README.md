@@ -14,4 +14,5 @@ Added solutions to the following problems till date:
 | 342 | Power of Four |
 | 412 | Fizz Buzz |
 | 509 | Fibonacci Number |
+| 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1512 | Number of Good Pairs |
