@@ -12,3 +12,4 @@ Added solutions to the following problems till date:
 | 231 | Power of Two |
 | 326 | Power of Three |
 | 342 | Power of Four |
+| 509 | Fibonacci Number |
