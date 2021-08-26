@@ -10,3 +10,5 @@ Added solutions to the following problems till date:
 | 9 | Palindrome Integer |
 | 69 | Sqrt(x) |
 | 231 | Power of Two |
+| 326 | Power of Three |
+| 342 | Power of Four |
