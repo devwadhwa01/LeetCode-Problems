@@ -9,6 +9,7 @@ Added solutions to the following problems till date:
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
 | 69 | Sqrt(x) |
+| 175 | Combine Two Tables |
 | 231 | Power of Two |
 | 326 | Power of Three |
 | 342 | Power of Four |
