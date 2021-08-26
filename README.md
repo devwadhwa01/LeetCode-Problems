@@ -9,4 +9,4 @@ Added solutions to the following problems till date:
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
 | 69 | Sqrt(x) |
-
+| 231 | Power of Two |
