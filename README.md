@@ -8,6 +8,7 @@ Added solutions to the following problems till date:
 | 1 | Two Sum |
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
+| 50 | Pow(x,n) |
 | 69 | Sqrt(x) |
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
