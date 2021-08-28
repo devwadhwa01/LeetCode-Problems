@@ -21,4 +21,5 @@ Added solutions to the following problems till date:
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1512 | Number of Good Pairs |
+| 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
