@@ -13,6 +13,7 @@ public:
                 if(temp==0 || i%temp!=0)
                 {
                     flag=0;
+                    break;
                 }
                 n/=10;
             }
