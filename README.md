@@ -4,7 +4,7 @@ This repository contains solutions to problems provided by LeetCode.
 
 Number of problems solved till date: <b>19</b>
 
-Added solutions to the following problems till date:
+Added solutions to the following problems:
 
 | No. | Title |
 | ----- | ----- |
