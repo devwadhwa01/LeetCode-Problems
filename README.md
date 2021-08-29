@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 20 </b>
+Number of problems solved till date: <b> 21 </b>
 
 Added solutions to the following problems:
 
@@ -12,6 +12,7 @@ Added solutions to the following problems:
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
 | 50 | Pow(x,n) |
+| 66 | Plus One |
 | 69 | Sqrt(x) |
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
