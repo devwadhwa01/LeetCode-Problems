@@ -13,10 +13,9 @@ public:
         }
         while(num!=0)
         {
-            result+=to_string(num%7);
+            result=to_string(num%7)+result;
             num/=7;
         }
-        reverse(result.begin(),result.end());
         if(flag==0) return "-"+result;
         return result;
     }
