@@ -15,9 +15,7 @@ public:
             n--;
             if(n-1<0)
             {
-                reverse(digits.begin(),digits.end());
-                digits.push_back(1);
-                reverse(digits.begin(),digits.end());
+                digits.insert(digits.begin(),1);
             }
             else
             {
