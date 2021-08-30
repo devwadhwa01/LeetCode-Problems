@@ -28,6 +28,7 @@ Added solutions to the following problems:
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1480 | Running Sum of 1d Array |
 | 1512 | Number of Good Pairs |
+| 1672 | Richest Customer Wealth |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
