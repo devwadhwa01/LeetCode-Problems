@@ -4,15 +4,10 @@ class Solution {
 public:
     string restoreString(string s, vector<int>& indices) {
         int n=indices.size();
-        char res[n];
-        string ans="";
+        string ans=s;           //Initialized with s so that it can be modified (same string length) or would have had to use a character array
         for(int i=0;i<n;i++)
         {
-            res[indices[i]]=s[i];
-        }
-        for(int i=0;i<n;i++)
-        {
-            ans+=res[i];
+            ans[indices[i]]=s[i];
         }
         return ans;
     }
