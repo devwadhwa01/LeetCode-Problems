@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 27 </b>
+Number of problems solved till date: <b> 30 </b>
 
 Added solutions to the following problems:
 
@@ -25,9 +25,12 @@ Added solutions to the following problems:
 | 509 | Fibonacci Number |
 | 728 | Self Dividing Numbers |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
+| 1313 | Decompress Run-Length Encoded List |
 | 1342 | Number of Steps to Reduce a Number to Zero |
+| 1431 | Kids With the Greatest Number of Candies |
 | 1480 | Running Sum of 1d Array |
 | 1512 | Number of Good Pairs |
+| 1528 | Shuffle String |
 | 1672 | Richest Customer Wealth |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1822 | Sign of the Product of an Array |
