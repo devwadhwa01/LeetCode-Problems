@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 23 </b>
+Number of problems solved till date: <b> 24 </b>
 
 Added solutions to the following problems:
 
@@ -26,6 +26,7 @@ Added solutions to the following problems:
 | 728 | Self Dividing Numbers |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1342 | Number of Steps to Reduce a Number to Zero |
+| 1480 | Running Sum of 1d Array |
 | 1512 | Number of Good Pairs |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1822 | Sign of the Product of an Array |
