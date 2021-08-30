@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 26 </b>
+Number of problems solved till date: <b> 27 </b>
 
 Added solutions to the following problems:
 
