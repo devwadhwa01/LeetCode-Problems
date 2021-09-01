@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 30 </b>
+Number of problems solved till date: <b> 31 </b>
 
 Added solutions to the following problems:
 
@@ -31,6 +31,7 @@ Added solutions to the following problems:
 | 1480 | Running Sum of 1d Array |
 | 1512 | Number of Good Pairs |
 | 1528 | Shuffle String |
+| 1662 | Check If Two String Arrays are Equivalent |
 | 1672 | Richest Customer Wealth |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1822 | Sign of the Product of an Array |
