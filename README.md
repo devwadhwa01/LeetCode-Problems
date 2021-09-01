@@ -32,6 +32,7 @@ Added solutions to the following problems:
 | 1313 | Decompress Run-Length Encoded List |
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1351 | Count Negative Numbers in a Sorted Matrix |
+| 1365 | How Many Numbers Are Smaller Than the Current Number |
 | 1431 | Kids With the Greatest Number of Candies |
 | 1480 | Running Sum of 1d Array |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary |
