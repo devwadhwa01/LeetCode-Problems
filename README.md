@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 42 </b>
+Number of problems solved till date: <b> 43 </b>
 
 Added solutions to the following problems:
 
@@ -14,6 +14,7 @@ Added solutions to the following problems:
 | 50 | Pow(x,n) |
 | 66 | Plus One |
 | 69 | Sqrt(x) |
+| 136 | Single Number |
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 231 | Power of Two |
