@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 43 </b>
+Number of problems solved till date: <b> 44 </b>
 
 Added solutions to the following problems:
 
@@ -40,6 +40,7 @@ Added solutions to the following problems:
 | 1502 | Can Make Arithmetic Progression From Sequence |
 | 1512 | Number of Good Pairs |
 | 1528 | Shuffle String |
+| 1550 | Three Consecutive Odds |
 | 1572 | Matrix Diagonal Sum |
 | 1662 | Check If Two String Arrays are Equivalent |
 | 1672 | Richest Customer Wealth |
