@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 46 </b>
+Number of problems solved till date: <b> 47 </b>
 
 Added solutions to the following problems:
 
@@ -47,6 +47,7 @@ Added solutions to the following problems:
 | 1662 | Check If Two String Arrays are Equivalent |
 | 1672 | Richest Customer Wealth |
 | 1716 | Calculate Money in Leetcode Bank |
+| 1720 | Decode XORed Array |
 | 1748 | Sum of Unique Elements |
 | 1773 | Count Items Matching a Rule |
 | 1822 | Sign of the Product of an Array |
