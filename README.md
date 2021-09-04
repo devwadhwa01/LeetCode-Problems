@@ -24,6 +24,7 @@ Added solutions to the following problems:
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
+| 682 | Baseball Game |
 | 728 | Self Dividing Numbers |
 | 832 | Flipping an Image |
 | 1051 | Height Checker | 
