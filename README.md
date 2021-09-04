@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 45 </b>
+Number of problems solved till date: <b> 46 </b>
 
 Added solutions to the following problems:
 
@@ -36,6 +36,7 @@ Added solutions to the following problems:
 | 1351 | Count Negative Numbers in a Sorted Matrix |
 | 1365 | How Many Numbers Are Smaller Than the Current Number |
 | 1431 | Kids With the Greatest Number of Candies |
+| 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary |
 | 1502 | Can Make Arithmetic Progression From Sequence |
