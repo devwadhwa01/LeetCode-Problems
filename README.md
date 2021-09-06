@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 49 </b>
+Number of problems solved till date: <b> 50 </b>
 
 Added solutions to the following problems:
 
@@ -48,6 +48,7 @@ Added solutions to the following problems:
 | 1572 | Matrix Diagonal Sum |
 | 1662 | Check If Two String Arrays are Equivalent |
 | 1672 | Richest Customer Wealth |
+| 1688 | Count of Matches in Tournament |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1720 | Decode XORed Array |
 | 1748 | Sum of Unique Elements |
