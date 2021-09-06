@@ -11,6 +11,7 @@ Added solutions to the following problems:
 | 1 | Two Sum |
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
+| 35 | Search Insert Position |
 | 50 | Pow(x,n) |
 | 66 | Plus One |
 | 69 | Sqrt(x) |
