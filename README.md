@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 47 </b>
+Number of problems solved till date: <b> 49 </b>
 
 Added solutions to the following problems:
 
@@ -39,6 +39,7 @@ Added solutions to the following problems:
 | 1431 | Kids With the Greatest Number of Candies |
 | 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
+| 1486 | XOR Operation in an Array |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary |
 | 1502 | Can Make Arithmetic Progression From Sequence |
 | 1512 | Number of Good Pairs |
