@@ -53,6 +53,7 @@ Added solutions to the following problems:
 | 1720 | Decode XORed Array |
 | 1748 | Sum of Unique Elements |
 | 1773 | Count Items Matching a Rule |
+| 1812 | Determine Color of a Chessboard Square |
 | 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
 | 1920 | Build Array from Permutation |
