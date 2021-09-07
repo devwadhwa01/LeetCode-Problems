@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 50 </b>
+Number of problems solved till date: <b> 51 </b>
 
 Added solutions to the following problems:
 
@@ -58,3 +58,4 @@ Added solutions to the following problems:
 | 1920 | Build Array from Permutation |
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
+| 1979 | Find Greatest Common Divisor of Array |
