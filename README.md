@@ -28,6 +28,7 @@ Added solutions to the following problems:
 | 682 | Baseball Game |
 | 728 | Self Dividing Numbers |
 | 832 | Flipping an Image |
+| 868 | Binary Gap |
 | 1051 | Height Checker | 
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1295 | Find Numbers with Even Number of Digits | 
