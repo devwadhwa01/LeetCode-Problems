@@ -15,6 +15,7 @@ Added solutions to the following problems:
 | 50 | Pow(x,n) |
 | 66 | Plus One |
 | 69 | Sqrt(x) |
+| 121 | Best Time to Buy and Sell Stock |
 | 136 | Single Number |
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
