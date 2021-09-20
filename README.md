@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 57 </b>
+Number of problems solved till date: <b> 58 </b>
 
 Added solutions to the following problems:
 
@@ -17,6 +17,7 @@ Added solutions to the following problems:
 | 69 | Sqrt(x) |
 | 121 | Best Time to Buy and Sell Stock |
 | 136 | Single Number |
+| 169 | Majority Element |
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 189 | Rotate Array |
