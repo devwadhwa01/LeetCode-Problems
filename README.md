@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 58 </b>
+Number of problems solved till date: <b> 59 </b>
 
 Added solutions to the following problems:
 
@@ -21,6 +21,7 @@ Added solutions to the following problems:
 | 172 | Factorial Trailing Zeroes |
 | 175 | Combine Two Tables |
 | 189 | Rotate Array |
+| 229 | Majority Element II |
 | 231 | Power of Two |
 | 258 | Add Digits |
 | 326 | Power of Three |
