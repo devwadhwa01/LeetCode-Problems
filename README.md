@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 59 </b>
+Number of problems solved till date: <b> 60 </b>
 
 Added solutions to the following problems:
 
@@ -13,6 +13,7 @@ Added solutions to the following problems:
 | 9 | Palindrome Integer |
 | 35 | Search Insert Position |
 | 50 | Pow(x,n) |
+| 58 | Length of Last Word |
 | 66 | Plus One |
 | 69 | Sqrt(x) |
 | 121 | Best Time to Buy and Sell Stock |
