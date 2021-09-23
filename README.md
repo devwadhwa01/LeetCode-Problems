@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 64 </b>
+Number of problems solved till date: <b> 65 </b>
 
 Added solutions to the following problems:
 
@@ -35,6 +35,7 @@ Added solutions to the following problems:
 | 682 | Baseball Game |
 | 728 | Self Dividing Numbers |
 | 747 | Largest Number At Least Twice of Others |
+| 771 | Jewels and Stones |
 | 832 | Flipping an Image |
 | 868 | Binary Gap |
 | 977 | Squares of a Sorted Array |
