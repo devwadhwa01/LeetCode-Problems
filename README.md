@@ -39,6 +39,7 @@ Added solutions to the following problems:
 | 868 | Binary Gap |
 | 977 | Squares of a Sorted Array |
 | 1051 | Height Checker | 
+| 1108 | Defanging an IP Address |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1295 | Find Numbers with Even Number of Digits | 
 | 1299 | Replace Elements with Greatest Element on Right Side |
