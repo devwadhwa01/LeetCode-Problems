@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 65 </b>
+Number of problems solved till date: <b> 66 </b>
 
 Added solutions to the following problems:
 
@@ -58,6 +58,7 @@ Added solutions to the following problems:
 | 1528 | Shuffle String |
 | 1550 | Three Consecutive Odds |
 | 1572 | Matrix Diagonal Sum |
+| 1603 | Design Parking System |
 | 1662 | Check If Two String Arrays are Equivalent |
 | 1672 | Richest Customer Wealth |
 | 1688 | Count of Matches in Tournament |
