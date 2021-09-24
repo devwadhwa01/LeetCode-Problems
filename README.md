@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 69 </b>
+Number of problems solved till date: <b> 70 </b>
 
 Added solutions to the following problems:
 
@@ -41,6 +41,7 @@ Added solutions to the following problems:
 | 977 | Squares of a Sorted Array |
 | 1051 | Height Checker | 
 | 1108 | Defanging an IP Address |
+| 1221 | Split a String in Balanced Strings |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1295 | Find Numbers with Even Number of Digits | 
 | 1299 | Replace Elements with Greatest Element on Right Side |
