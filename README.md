@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 72 </b>
+Number of problems solved till date: <b> 73 </b>
 
 Added solutions to the following problems:
 
@@ -74,6 +74,7 @@ Added solutions to the following problems:
 | 1812 | Determine Color of a Chessboard Square |
 | 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
+| 1913 | Maximum Product Difference Between Two Pairs |
 | 1920 | Build Array from Permutation |
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
