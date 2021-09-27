@@ -33,6 +33,7 @@ Added solutions to the following problems:
 | 509 | Fibonacci Number |
 | 628 | Maximum Product of Three Numbers |
 | 682 | Baseball Game |
+| 709 | To Lower Case |
 | 728 | Self Dividing Numbers |
 | 747 | Largest Number At Least Twice of Others |
 | 771 | Jewels and Stones |
