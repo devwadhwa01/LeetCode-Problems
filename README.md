@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 75 </b>
+Number of problems solved till date: <b> 76 </b>
 
 Added solutions to the following problems:
 
@@ -57,6 +57,7 @@ Added solutions to the following problems:
 | 1480 | Running Sum of 1d Array |
 | 1486 | XOR Operation in an Array |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary |
+| 1492 | The kth Factor of n |
 | 1502 | Can Make Arithmetic Progression From Sequence |
 | 1512 | Number of Good Pairs |
 | 1528 | Shuffle String |
