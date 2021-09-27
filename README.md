@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 74 </b>
+Number of problems solved till date: <b> 75 </b>
 
 Added solutions to the following problems:
 
@@ -77,6 +77,7 @@ Added solutions to the following problems:
 | 1837 | Sum of Digits in Base K |
 | 1913 | Maximum Product Difference Between Two Pairs |
 | 1920 | Build Array from Permutation |
+| 1925 | Count Square Sum Triples |
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
