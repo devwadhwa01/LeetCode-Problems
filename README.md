@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 77 </b>
+Number of problems solved till date: <b> 78 </b>
 
 Added solutions to the following problems:
 
@@ -75,6 +75,7 @@ Added solutions to the following problems:
 | 1773 | Count Items Matching a Rule |
 | 1791 | Find Center of Star Graph |
 | 1812 | Determine Color of a Chessboard Square |
+| 1816 | Truncate Sentence |
 | 1822 | Sign of the Product of an Array |
 | 1837 | Sum of Digits in Base K |
 | 1913 | Maximum Product Difference Between Two Pairs |
