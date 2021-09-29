@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 76 </b>
+Number of problems solved till date: <b> 77 </b>
 
 Added solutions to the following problems:
 
@@ -47,6 +47,7 @@ Added solutions to the following problems:
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1295 | Find Numbers with Even Number of Digits | 
 | 1299 | Replace Elements with Greatest Element on Right Side |
+| 1304 | Find N Unique Integers Sum up to Zero |
 | 1313 | Decompress Run-Length Encoded List |
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1351 | Count Negative Numbers in a Sorted Matrix |
