@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 80 </b>
+Number of problems solved till date: <b> 81 </b>
 
 Added solutions to the following problems:
 
@@ -31,6 +31,7 @@ Added solutions to the following problems:
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
+| 595 | Big Countries |
 | 628 | Maximum Product of Three Numbers |
 | 682 | Baseball Game |
 | 709 | To Lower Case |
