@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 81 </b>
+Number of problems solved till date: <b> 82 </b>
 
 Added solutions to the following problems:
 
@@ -87,5 +87,6 @@ Added solutions to the following problems:
 | 1929 | Concatenation of Array |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
+| 2000 | Reverse Prefix of Word |
 | 2006 | Count Number of Pairs With Absolute Difference K |
 | 2011 | Final Value of Variable After Performing Operations |
