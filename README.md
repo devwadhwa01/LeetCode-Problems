@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 86 </b>
+Number of problems solved till date: <b> 87 </b>
 
 Added solutions to the following problems:
 
@@ -57,6 +57,7 @@ Added solutions to the following problems:
 | 1389 | Create Target Array in the Given Order |
 | 1431 | Kids With the Greatest Number of Candies |
 | 1450 | Number of Students Doing Homework at a Given Time |
+| 1464 | Maximum Product of Two Elements in an Array |
 | 1470 | Shuffle the Array |
 | 1480 | Running Sum of 1d Array |
 | 1486 | XOR Operation in an Array |
