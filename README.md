@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 85 </b>
+Number of problems solved till date: <b> 86 </b>
 
 Added solutions to the following problems:
 
@@ -53,6 +53,7 @@ Added solutions to the following problems:
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1351 | Count Negative Numbers in a Sorted Matrix |
 | 1365 | How Many Numbers Are Smaller Than the Current Number |
+| 1374 | Generate a String With Characters That Have Odd Counts |
 | 1389 | Create Target Array in the Given Order |
 | 1431 | Kids With the Greatest Number of Candies |
 | 1450 | Number of Students Doing Homework at a Given Time |
