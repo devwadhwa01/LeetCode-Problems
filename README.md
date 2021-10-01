@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 87 </b>
+Number of problems solved till date: <b> 88 </b>
 
 Added solutions to the following problems:
 
@@ -76,6 +76,7 @@ Added solutions to the following problems:
 | 1688 | Count of Matches in Tournament |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1720 | Decode XORed Array |
+| 1732 | Find the Highest Altitude |
 | 1748 | Sum of Unique Elements |
 | 1773 | Count Items Matching a Rule |
 | 1791 | Find Center of Star Graph |
