@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 88 </b>
+Number of problems solved till date: <b> 91 </b>
 
 Added solutions to the following problems:
 
@@ -50,12 +50,14 @@ Added solutions to the following problems:
 | 1299 | Replace Elements with Greatest Element on Right Side |
 | 1304 | Find N Unique Integers Sum up to Zero |
 | 1313 | Decompress Run-Length Encoded List |
+| 1323 | Maximum 69 Number |
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1351 | Count Negative Numbers in a Sorted Matrix |
 | 1365 | How Many Numbers Are Smaller Than the Current Number |
 | 1374 | Generate a String With Characters That Have Odd Counts |
 | 1389 | Create Target Array in the Given Order |
 | 1431 | Kids With the Greatest Number of Candies |
+| 1436 | Destination City |
 | 1450 | Number of Students Doing Homework at a Given Time |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1470 | Shuffle the Array |
@@ -76,6 +78,7 @@ Added solutions to the following problems:
 | 1688 | Count of Matches in Tournament |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1720 | Decode XORed Array |
+| 1725 | Number Of Rectangles That Can Form The Largest Square |
 | 1732 | Find the Highest Altitude |
 | 1748 | Sum of Unique Elements |
 | 1773 | Count Items Matching a Rule |
