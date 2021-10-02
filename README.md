@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 89 </b>
+Number of problems solved till date: <b> 90 </b>
 
 Added solutions to the following problems:
 
@@ -74,6 +74,7 @@ Added solutions to the following problems:
 | 1672 | Richest Customer Wealth |
 | 1678 | Goal Parser Interpretation |
 | 1688 | Count of Matches in Tournament |
+| 1704 | Determine if String Halves Are Alike |
 | 1716 | Calculate Money in Leetcode Bank |
 | 1720 | Decode XORed Array |
 | 1725 | Number Of Rectangles That Can Form The Largest Square |
