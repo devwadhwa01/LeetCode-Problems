@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 92 </b>
+Number of problems solved till date: <b> 93 </b>
 
 Added solutions to the following problems:
 
@@ -67,6 +67,7 @@ Added solutions to the following problems:
 | 1492 | The kth Factor of n |
 | 1502 | Can Make Arithmetic Progression From Sequence |
 | 1512 | Number of Good Pairs |
+| 1523 | Count Odd Numbers in an Interval Range |
 | 1528 | Shuffle String |
 | 1534 | Count Good Triplets |
 | 1550 | Three Consecutive Odds |
