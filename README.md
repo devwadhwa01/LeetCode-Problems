@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 90 </b>
+Number of problems solved till date: <b> 91 </b>
 
 Added solutions to the following problems:
 
@@ -25,6 +25,7 @@ Added solutions to the following problems:
 | 229 | Majority Element II |
 | 231 | Power of Two |
 | 258 | Add Digits |
+| 268 | Missing Number |
 | 326 | Power of Three |
 | 342 | Power of Four |
 | 412 | Fizz Buzz |
