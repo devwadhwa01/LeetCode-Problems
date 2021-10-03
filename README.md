@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 91 </b>
+Number of problems solved till date: <b> 92 </b>
 
 Added solutions to the following problems:
 
@@ -51,6 +51,7 @@ Added solutions to the following problems:
 | 1299 | Replace Elements with Greatest Element on Right Side |
 | 1304 | Find N Unique Integers Sum up to Zero |
 | 1313 | Decompress Run-Length Encoded List |
+| 1317 | Convert Integer to the Sum of Two No-Zero Integers |
 | 1342 | Number of Steps to Reduce a Number to Zero |
 | 1351 | Count Negative Numbers in a Sorted Matrix |
 | 1365 | How Many Numbers Are Smaller Than the Current Number |
