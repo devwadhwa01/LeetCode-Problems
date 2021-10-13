@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 94 </b>
+Number of problems solved till date: <b> 95 </b>
 
 Added solutions to the following problems:
 
@@ -17,6 +17,7 @@ Added solutions to the following problems:
 | 66 | Plus One |
 | 69 | Sqrt(x) |
 | 121 | Best Time to Buy and Sell Stock |
+| 125 | Valid Palindrome |
 | 136 | Single Number |
 | 169 | Majority Element |
 | 172 | Factorial Trailing Zeroes |
