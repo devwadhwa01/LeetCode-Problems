@@ -91,6 +91,7 @@ Added solutions to the following problems:
 | 1832 | Check if the Sentence Is Pangram |
 | 1837 | Sum of Digits in Base K |
 | 1844 | Replace All Digits with Characters |
+| 1903 | Largest Odd Number in String |
 | 1913 | Maximum Product Difference Between Two Pairs |
 | 1920 | Build Array from Permutation |
 | 1925 | Count Square Sum Triples |
