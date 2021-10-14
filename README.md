@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 99 </b>
+Number of problems solved till date: <b> 100 </b>
 
 Added solutions to the following problems:
 
@@ -33,6 +33,7 @@ Added solutions to the following problems:
 | 342 | Power of Four |
 | 344 | Reverse String |
 | 367 | Valid Perfect Square |
+| 389 | Find the Difference |
 | 412 | Fizz Buzz |
 | 504 | Base 7 |
 | 507 | Perfect Number |
