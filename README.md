@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 97 </b>
+Number of problems solved till date: <b> 98 </b>
 
 Added solutions to the following problems:
 
@@ -31,6 +31,7 @@ Added solutions to the following problems:
 | 278 | First Bad Version |
 | 326 | Power of Three |
 | 342 | Power of Four |
+| 344 | Reverse String |
 | 412 | Fizz Buzz |
 | 504 | Base 7 |
 | 507 | Perfect Number |
