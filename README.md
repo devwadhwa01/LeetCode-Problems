@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 105 </b>
+Number of problems solved till date: <b> 106 </b>
 
 Added solutions to the following problems:
 
@@ -53,6 +53,7 @@ Added solutions to the following problems:
 | 832 | Flipping an Image |
 | 868 | Binary Gap |
 | 977 | Squares of a Sorted Array |
+| 1009 | Complement of Base 10 Integer |
 | 1051 | Height Checker | 
 | 1108 | Defanging an IP Address |
 | 1137 | N-th Tribonacci Number |
