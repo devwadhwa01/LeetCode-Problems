@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 106 </b>
+Number of problems solved till date: <b> 107 </b>
 
 Added solutions to the following problems:
 
@@ -114,3 +114,4 @@ Added solutions to the following problems:
 | 2000 | Reverse Prefix of Word |
 | 2006 | Count Number of Pairs With Absolute Difference K |
 | 2011 | Final Value of Variable After Performing Operations |
+| 2089 | Find Target Indices After Sorting Array |
