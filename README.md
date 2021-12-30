@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 113 </b>
+Number of problems solved till date: <b> 114 </b>
 
 Added solutions to the following problems:
 
@@ -119,5 +119,6 @@ Added solutions to the following problems:
 | 2068 | Check Whether Two Strings are Almost Equivalent |
 | 2078 | Two Furthest Houses With Different Colors |
 | 2089 | Find Target Indices After Sorting Array |
+| 2108 | Find First Palindromic String in the Array |
 | 2114 | Maximum Number of Words Found in Sentences |
 | 2119 | A Number After a Double Reversal |
