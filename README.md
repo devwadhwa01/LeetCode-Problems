@@ -39,6 +39,7 @@ Added solutions to the following problems:
 | 387 | First Unique Character in a String |
 | 389 | Find the Difference |
 | 412 | Fizz Buzz |
+| 434 | Number of Segments in a String |
 | 476 | Number Complement |
 | 504 | Base 7 |
 | 507 | Perfect Number |
