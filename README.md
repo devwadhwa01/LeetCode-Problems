@@ -2,13 +2,14 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 116 </b>
+Number of problems solved till date: <b> 117 </b>
 
 Added solutions to the following problems:
 
 | No. | Title |
 | ----- | ----- |
 | 1 | Two Sum |
+| 4 | Median of Two Sorted Arrays |
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
 | 35 | Search Insert Position |
