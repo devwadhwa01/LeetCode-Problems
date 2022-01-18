@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 118 </b>
+Number of problems solved till date: <b> 120 </b>
 
 Added solutions to the following problems:
 
@@ -28,6 +28,8 @@ Added solutions to the following problems:
 | 217 | Contains Duplicate |
 | 229 | Majority Element II |
 | 231 | Power of Two |
+| 238 | Product of Array Except Self |
+| 242 | Valid Anagram |
 | 258 | Add Digits |
 | 263 | Ugly Number |
 | 268 | Missing Number |
