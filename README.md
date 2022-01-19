@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 122 </b>
+Number of problems solved till date: <b> 123 </b>
 
 Added solutions to the following problems:
 
@@ -45,6 +45,7 @@ Added solutions to the following problems:
 | 412 | Fizz Buzz |
 | 434 | Number of Segments in a String |
 | 476 | Number Complement |
+| 485 | Max Consecutive Ones |
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
