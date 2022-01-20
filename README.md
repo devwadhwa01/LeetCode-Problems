@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 123 </b>
+Number of problems solved till date: <b> 124 </b>
 
 Added solutions to the following problems:
 
@@ -72,6 +72,7 @@ Added solutions to the following problems:
 | 1313 | Decompress Run-Length Encoded List |
 | 1317 | Convert Integer to the Sum of Two No-Zero Integers |
 | 1342 | Number of Steps to Reduce a Number to Zero |
+| 1346 | Check If N and Its Double Exist |
 | 1351 | Count Negative Numbers in a Sorted Matrix |
 | 1365 | How Many Numbers Are Smaller Than the Current Number |
 | 1374 | Generate a String With Characters That Have Odd Counts |
