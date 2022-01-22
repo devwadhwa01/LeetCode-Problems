@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 124 </b>
+Number of problems solved till date: <b> 125 </b>
 
 Added solutions to the following problems:
 
@@ -62,6 +62,7 @@ Added solutions to the following problems:
 | 977 | Squares of a Sorted Array |
 | 1009 | Complement of Base 10 Integer |
 | 1051 | Height Checker | 
+| 1089 | Duplicate Zeros |
 | 1108 | Defanging an IP Address |
 | 1137 | N-th Tribonacci Number |
 | 1221 | Split a String in Balanced Strings |
