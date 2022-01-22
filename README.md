@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 126 </b>
+Number of problems solved till date: <b> 127 </b>
 
 Added solutions to the following problems:
 
@@ -12,6 +12,7 @@ Added solutions to the following problems:
 | 4 | Median of Two Sorted Arrays |
 | 7 | Reverse Integer |
 | 9 | Palindrome Integer |
+| 27 | Remove Element |
 | 35 | Search Insert Position |
 | 50 | Pow(x,n) |
 | 58 | Length of Last Word |
