@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 125 </b>
+Number of problems solved till date: <b> 126 </b>
 
 Added solutions to the following problems:
 
@@ -18,6 +18,7 @@ Added solutions to the following problems:
 | 66 | Plus One |
 | 69 | Sqrt(x) |
 | 74 | Search a 2D Matrix |
+| 88 | Merge Sorted Array |
 | 121 | Best Time to Buy and Sell Stock |
 | 125 | Valid Palindrome |
 | 136 | Single Number |
