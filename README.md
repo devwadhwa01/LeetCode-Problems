@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 132 </b>
+Number of problems solved till date: <b> 133 </b>
 
 Added solutions to the following problems:
 
@@ -49,6 +49,7 @@ Added solutions to the following problems:
 | 412 | Fizz Buzz |
 | 414 | Third Maximum Number |
 | 434 | Number of Segments in a String |
+| 448 | Find All Numbers Disappeared in an Array |
 | 476 | Number Complement |
 | 485 | Max Consecutive Ones |
 | 504 | Base 7 |
