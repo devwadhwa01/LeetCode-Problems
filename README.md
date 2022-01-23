@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 130 </b>
+Number of problems solved till date: <b> 131 </b>
 
 Added solutions to the following problems:
 
@@ -63,6 +63,7 @@ Added solutions to the following problems:
 | 771 | Jewels and Stones |
 | 832 | Flipping an Image |
 | 868 | Binary Gap |
+| 905 | Sort Array By Parity |
 | 941 | Valid Mountain Array |
 | 977 | Squares of a Sorted Array |
 | 1009 | Complement of Base 10 Integer |
