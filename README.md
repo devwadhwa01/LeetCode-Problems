@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 131 </b>
+Number of problems solved till date: <b> 132 </b>
 
 Added solutions to the following problems:
 
@@ -47,6 +47,7 @@ Added solutions to the following problems:
 | 387 | First Unique Character in a String |
 | 389 | Find the Difference |
 | 412 | Fizz Buzz |
+| 414 | Third Maximum Number |
 | 434 | Number of Segments in a String |
 | 476 | Number Complement |
 | 485 | Max Consecutive Ones |
