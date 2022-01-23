@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 129 </b>
+Number of problems solved till date: <b> 130 </b>
 
 Added solutions to the following problems:
 
@@ -37,6 +37,7 @@ Added solutions to the following problems:
 | 263 | Ugly Number |
 | 268 | Missing Number |
 | 278 | First Bad Version |
+| 283 | Move Zeroes |
 | 326 | Power of Three |
 | 338 | Counting Bits |
 | 342 | Power of Four |
