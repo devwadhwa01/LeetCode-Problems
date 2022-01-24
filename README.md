@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 135 </b>
+Number of problems solved till date: <b> 136 </b>
 
 Added solutions to the following problems:
 
@@ -61,6 +61,7 @@ Added solutions to the following problems:
 | 628 | Maximum Product of Three Numbers |
 | 682 | Baseball Game |
 | 709 | To Lower Case |
+| 724 | Find Pivot Index |
 | 728 | Self Dividing Numbers |
 | 747 | Largest Number At Least Twice of Others |
 | 771 | Jewels and Stones |
