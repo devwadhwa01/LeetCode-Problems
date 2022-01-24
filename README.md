@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 136 </b>
+Number of problems solved till date: <b> 137 </b>
 
 Added solutions to the following problems:
 
@@ -130,6 +130,7 @@ Added solutions to the following problems:
 | 1941 | Check if All Characters Have Equal Number of Occurrences |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
+| 1991 | Find the Middle Index in Array |
 | 2000 | Reverse Prefix of Word |
 | 2006 | Count Number of Pairs With Absolute Difference K |
 | 2011 | Final Value of Variable After Performing Operations |
