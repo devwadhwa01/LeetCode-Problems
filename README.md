@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 137 </b>
+Number of problems solved till date: <b> 138 </b>
 
 Added solutions to the following problems:
 
@@ -76,6 +76,7 @@ Added solutions to the following problems:
 | 1108 | Defanging an IP Address |
 | 1137 | N-th Tribonacci Number |
 | 1221 | Split a String in Balanced Strings |
+| 1252 | Cells with Odd Values in a Matrix |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
 | 1295 | Find Numbers with Even Number of Digits | 
 | 1299 | Replace Elements with Greatest Element on Right Side |
