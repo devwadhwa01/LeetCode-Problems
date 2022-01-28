@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 139 </b>
+Number of problems solved till date: <b> 140 </b>
 
 Added solutions to the following problems:
 
@@ -63,6 +63,7 @@ Added solutions to the following problems:
 | 709 | To Lower Case |
 | 724 | Find Pivot Index |
 | 728 | Self Dividing Numbers |
+| 744 | Find Smallest Letter Greater Than Target |
 | 747 | Largest Number At Least Twice of Others |
 | 771 | Jewels and Stones |
 | 832 | Flipping an Image |
