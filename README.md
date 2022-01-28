@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 141 </b>
+Number of problems solved till date: <b> 142 </b>
 
 Added solutions to the following problems:
 
@@ -66,6 +66,7 @@ Added solutions to the following problems:
 | 744 | Find Smallest Letter Greater Than Target |
 | 747 | Largest Number At Least Twice of Others |
 | 771 | Jewels and Stones |
+| 830 | Positions of Large Groups |
 | 832 | Flipping an Image |
 | 868 | Binary Gap |
 | 905 | Sort Array By Parity |
