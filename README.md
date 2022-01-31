@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 143 </b>
+Number of problems solved till date: <b> 144 </b>
 
 Added solutions to the following problems:
 
@@ -147,6 +147,7 @@ Added solutions to the following problems:
 | 2108 | Find First Palindromic String in the Array |
 | 2114 | Maximum Number of Words Found in Sentences |
 | 2119 | A Number After a Double Reversal |
+| 2124 | Check if All A's Appears Before All B's |
 | 2129 | Capitalize the Title |
 | 2138 | Divide a String Into Groups of Size k |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements |
