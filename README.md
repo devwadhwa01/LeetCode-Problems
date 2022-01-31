@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 142 </b>
+Number of problems solved till date: <b> 143 </b>
 
 Added solutions to the following problems:
 
@@ -150,3 +150,4 @@ Added solutions to the following problems:
 | 2129 | Capitalize the Title |
 | 2138 | Divide a String Into Groups of Size k |
 | 2148 | Count Elements With Strictly Smaller and Greater Elements |
+| 2154 | Keep Multiplying Found Values by Two |
