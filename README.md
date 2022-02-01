@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 145 </b>
+Number of problems solved till date: <b> 146 </b>
 
 Added solutions to the following problems:
 
@@ -59,6 +59,7 @@ Added solutions to the following problems:
 | 566 | Reshape the Matrix |
 | 595 | Big Countries |
 | 628 | Maximum Product of Three Numbers |
+| 657 | Robot Return to Origin |
 | 682 | Baseball Game |
 | 709 | To Lower Case |
 | 724 | Find Pivot Index |
