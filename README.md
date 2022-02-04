@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 149 </b>
+Number of problems solved till date: <b> 150 </b>
 
 Added solutions to the following problems:
 
@@ -71,6 +71,7 @@ Added solutions to the following problems:
 | 796 | Rotate String |
 | 830 | Positions of Large Groups |
 | 832 | Flipping an Image |
+| 867 | Transpose Matrix |
 | 868 | Binary Gap |
 | 905 | Sort Array By Parity |
 | 941 | Valid Mountain Array |
