@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 150 </b>
+Number of problems solved till date: <b> 151 </b>
 
 Added solutions to the following problems:
 
@@ -136,6 +136,7 @@ Added solutions to the following problems:
 | 1925 | Count Square Sum Triples |
 | 1929 | Concatenation of Array |
 | 1941 | Check if All Characters Have Equal Number of Occurrences |
+| 1945 | Sum of Digits of String After Convert |
 | 1952 | Three Divisors |
 | 1979 | Find Greatest Common Divisor of Array |
 | 1991 | Find the Middle Index in Array |
