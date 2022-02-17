@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 151 </b>
+Number of problems solved till date: <b> 152 </b>
 
 Added solutions to the following problems:
 
@@ -159,3 +159,4 @@ Added solutions to the following problems:
 | 2148 | Count Elements With Strictly Smaller and Greater Elements |
 | 2149 | Rearrange Array Elements by Sign |
 | 2154 | Keep Multiplying Found Values by Two |
+| 2169 | Count Operations to Obtain Zero |
