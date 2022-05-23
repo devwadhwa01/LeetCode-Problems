@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 157 </b>
+Number of problems solved till date: <b> 158 </b>
 
 Added solutions to the following problems:
 
@@ -124,6 +124,7 @@ Added solutions to the following problems:
 | 1725 | Number Of Rectangles That Can Form The Largest Square |
 | 1732 | Find the Highest Altitude |
 | 1748 | Sum of Unique Elements |
+| 1757 | Recyclable and Low Fat Products |
 | 1773 | Count Items Matching a Rule |
 | 1791 | Find Center of Star Graph |
 | 1812 | Determine Color of a Chessboard Square |
