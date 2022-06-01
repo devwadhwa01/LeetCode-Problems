@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 161 </b>
+Number of problems solved till date: <b> 162 </b>
 
 Added solutions to the following problems:
 
@@ -25,6 +25,7 @@ Added solutions to the following problems:
 | 121 | Best Time to Buy and Sell Stock |
 | 125 | Valid Palindrome |
 | 136 | Single Number |
+| 150 | Evaluate Reverse Polish Notation |
 | 155 | Min Stack |
 | 169 | Majority Element |
 | 172 | Factorial Trailing Zeroes |
