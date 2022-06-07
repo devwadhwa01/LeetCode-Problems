@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 164 </b>
+Number of problems solved till date: <b> 165 </b>
 
 Added solutions to the following problems:
 
@@ -81,6 +81,7 @@ Added solutions to the following problems:
 | 941 | Valid Mountain Array |
 | 977 | Squares of a Sorted Array |
 | 1009 | Complement of Base 10 Integer |
+| 1037 | Valid Boomerang |
 | 1047 | Remove All Adjacent Duplicates In String |
 | 1051 | Height Checker | 
 | 1089 | Duplicate Zeros |
