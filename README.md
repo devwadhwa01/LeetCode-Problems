@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 165 </b>
+Number of problems solved till date: <b> 166 </b>
 
 Added solutions to the following problems:
 
@@ -171,5 +171,6 @@ Added solutions to the following problems:
 | 2176 | Count Equal and Divisible Pairs in an Array |
 | 2180 | Count Integers With Even Digit Sum |
 | 2235 | Add Two Integers |
+| 2236 | Root Equals Sum of Children |
 | 2278 | Percentage of Letter in String |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value |
