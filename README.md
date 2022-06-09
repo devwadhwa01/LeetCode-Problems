@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 167 </b>
+Number of problems solved till date: <b> 168 </b>
 
 Added solutions to the following problems:
 
@@ -90,6 +90,7 @@ Added solutions to the following problems:
 | 1221 | Split a String in Balanced Strings |
 | 1252 | Cells with Odd Values in a Matrix |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
+| 1290 | Convert Binary Number in a Linked List to Integer |
 | 1295 | Find Numbers with Even Number of Digits | 
 | 1299 | Replace Elements with Greatest Element on Right Side |
 | 1304 | Find N Unique Integers Sum up to Zero |
