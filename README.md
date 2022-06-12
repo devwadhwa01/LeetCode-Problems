@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 168 </b>
+Number of problems solved till date: <b> 169 </b>
 
 Added solutions to the following problems:
 
@@ -59,6 +59,7 @@ Added solutions to the following problems:
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
 | 520 | Detect Capital |
+| 557 | Reverse Words in a String III | 
 | 566 | Reshape the Matrix |
 | 584 | Find Customer Referee |
 | 595 | Big Countries |
