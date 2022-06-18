@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 169 </b>
+Number of problems solved till date: <b> 170 </b>
 
 Added solutions to the following problems:
 
@@ -132,6 +132,7 @@ Added solutions to the following problems:
 | 1732 | Find the Highest Altitude |
 | 1748 | Sum of Unique Elements |
 | 1757 | Recyclable and Low Fat Products |
+| 1768 | Merge Strings Alternately |
 | 1773 | Count Items Matching a Rule |
 | 1791 | Find Center of Star Graph |
 | 1812 | Determine Color of a Chessboard Square |
