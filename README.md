@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 171 </b>
+Number of problems solved till date: <b> 172 </b>
 
 Added solutions to the following problems:
 
@@ -179,3 +179,4 @@ Added solutions to the following problems:
 | 2236 | Root Equals Sum of Children |
 | 2278 | Percentage of Letter in String |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value |
+| 2319 | Check if Matrix Is X-Matrix |
