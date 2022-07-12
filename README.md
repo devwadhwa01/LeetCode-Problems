@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 174 </b>
+Number of problems solved till date: <b> 175 </b>
 
 Added solutions to the following problems:
 
@@ -175,6 +175,7 @@ Added solutions to the following problems:
 | 2169 | Count Operations to Obtain Zero |
 | 2176 | Count Equal and Divisible Pairs in an Array |
 | 2180 | Count Integers With Even Digit Sum |
+| 2185 | Counting Words With a Given Prefix |
 | 2235 | Add Two Integers |
 | 2236 | Root Equals Sum of Children |
 | 2255 | Count Prefixes of a Given String |
