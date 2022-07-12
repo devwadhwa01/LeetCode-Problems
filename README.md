@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 173 </b>
+Number of problems solved till date: <b> 174 </b>
 
 Added solutions to the following problems:
 
@@ -177,6 +177,7 @@ Added solutions to the following problems:
 | 2180 | Count Integers With Even Digit Sum |
 | 2235 | Add Two Integers |
 | 2236 | Root Equals Sum of Children |
+| 2255 | Count Prefixes of a Given String |
 | 2278 | Percentage of Letter in String |
 | 2283 | Check if Number Has Equal Digit Count and Digit Value |
 | 2309 | Greatest English Letter in Upper and Lower Case |
