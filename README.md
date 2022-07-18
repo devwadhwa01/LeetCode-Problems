@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 176 </b>
+Number of problems solved till date: <b> 177 </b>
 
 Added solutions to the following problems:
 
@@ -56,6 +56,7 @@ Added solutions to the following problems:
 | 448 | Find All Numbers Disappeared in an Array |
 | 476 | Number Complement |
 | 485 | Max Consecutive Ones |
+| 492 | Construct the Rectangle | 
 | 504 | Base 7 |
 | 507 | Perfect Number |
 | 509 | Fibonacci Number |
