@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 178 </b>
+Number of problems solved till date: <b> 179 </b>
 
 Added solutions to the following problems:
 
@@ -81,6 +81,7 @@ Added solutions to the following problems:
 | 867 | Transpose Matrix |
 | 868 | Binary Gap |
 | 905 | Sort Array By Parity |
+| 914 | X of a Kind in a Deck of Cards |
 | 941 | Valid Mountain Array |
 | 977 | Squares of a Sorted Array |
 | 1009 | Complement of Base 10 Integer |
