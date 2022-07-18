@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 177 </b>
+Number of problems solved till date: <b> 178 </b>
 
 Added solutions to the following problems:
 
@@ -90,6 +90,7 @@ Added solutions to the following problems:
 | 1089 | Duplicate Zeros |
 | 1108 | Defanging an IP Address |
 | 1137 | N-th Tribonacci Number |
+| 1175 | Prime Arrangements |
 | 1221 | Split a String in Balanced Strings |
 | 1252 | Cells with Odd Values in a Matrix |
 | 1281 | Subtract the Product and Sum of Digits of an Integer |
