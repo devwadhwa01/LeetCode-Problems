@@ -2,7 +2,7 @@
 This repository contains solutions to problems provided by LeetCode.
 
 
-Number of problems solved till date: <b> 175 </b>
+Number of problems solved till date: <b> 176 </b>
 
 Added solutions to the following problems:
 
@@ -106,6 +106,7 @@ Added solutions to the following problems:
 | 1389 | Create Target Array in the Given Order |
 | 1431 | Kids With the Greatest Number of Candies |
 | 1450 | Number of Students Doing Homework at a Given Time |
+| 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1470 | Shuffle the Array |
 | 1475 | Final Prices With a Special Discount in a Shop |
